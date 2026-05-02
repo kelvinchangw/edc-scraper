@@ -1,0 +1,42 @@
+name: scrape
+
+on:
+  schedule:
+    # 9:13am Pacific (16:13 UTC during PDT, 17:13 UTC during PST).
+    # Off-the-hour minute reduces GH Actions cron lag/drops at peak times.
+    - cron: "13 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scrape lineup
+        run: |
+          python edc_scraper.py -o docs/sets.json
+          python edc_scraper.py -o docs/sets.csv
+          python edc_scraper.py -o docs/index.html
+
+      - name: Commit if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet docs/sets.json; then
+            echo "No data changes; skipping commit."
+          else
+            git add docs/
+            git commit -m "scrape: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

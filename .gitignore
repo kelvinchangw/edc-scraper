@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# local scraper outputs (the docs/ versions are the published copies)
+lineup.html
+schedule.html
+sets.csv
+sets.json
