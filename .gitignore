@@ -3,8 +3,10 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# local scraper outputs (the docs/ versions are the published copies)
-lineup.html
-schedule.html
-sets.csv
-sets.json
+# local scraper outputs (the docs/ versions are the published copies).
+# Leading slash anchors to repo root — without it, `sets.json` also matches
+# `docs/sets.json` and silently breaks the publish workflow.
+/lineup.html
+/schedule.html
+/sets.csv
+/sets.json

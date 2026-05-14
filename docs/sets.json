@@ -1,0 +1,4222 @@
+[
+  {
+    "artist": "HEIDI LAWDEN B2B MASHA MAR",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T17:00:00",
+    "end": "2026-05-15T19:00:00",
+    "start_label": "5pm",
+    "end_label": "7pm"
+  },
+  {
+    "artist": "MAX DEAN B2B LUKE DEAN",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T17:00:00",
+    "end": "2026-05-15T18:55:00",
+    "start_label": "5pm",
+    "end_label": "6:55pm"
+  },
+  {
+    "artist": "DANNI G",
+    "stage": "Ubuntu",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T17:00:00",
+    "end": "2026-05-15T19:30:00",
+    "start_label": "5pm",
+    "end_label": "7:30pm"
+  },
+  {
+    "artist": "RIOT",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T19:50:00",
+    "start_label": "7pm",
+    "end_label": "7:50pm"
+  },
+  {
+    "artist": "NOT NOT",
+    "stage": "Beatbox Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "STACY CHRISTINE",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "JRUIZ",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "1991",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "JACKIE HOLLANDER",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T19:55:00",
+    "start_label": "7pm",
+    "end_label": "7:55pm"
+  },
+  {
+    "artist": "JEM",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "BIG DADDY KESS",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "THE KANDYMAN",
+    "stage": "Insomniac Fridays",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "LAIDBACK LUKE B2B CHUCKIE",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "ANASTAZJA",
+    "stage": "Neon Garden",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "GL00M13",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "SARAH DE WARREN",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "ABANA B2B JULIET MENDOZA",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "TROUBLE",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "DOMINA",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "SOSO DRU",
+    "stage": "YeeDC",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:00:00",
+    "end": "2026-05-15T20:45:00",
+    "start_label": "7pm",
+    "end_label": "8:45pm"
+  },
+  {
+    "artist": "PIZZI",
+    "stage": "Ubuntu",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:30:00",
+    "end": "2026-05-15T21:30:00",
+    "start_label": "7:30pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "THE MASQUERADE",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:50:00",
+    "end": "2026-05-15T20:40:00",
+    "start_label": "7:50pm",
+    "end_label": "8:40pm"
+  },
+  {
+    "artist": "RODDY LIMA",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T19:55:00",
+    "end": "2026-05-15T20:55:00",
+    "start_label": "7:55pm",
+    "end_label": "8:55pm"
+  },
+  {
+    "artist": "THE CARRY NATION",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:00:00",
+    "end": "2026-05-15T21:30:00",
+    "start_label": "8pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "CARDO",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:00:00",
+    "end": "2026-05-15T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "BOU",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:00:00",
+    "end": "2026-05-15T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "SUSSYBAKA",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:00:00",
+    "end": "2026-05-15T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "KOROLOVA",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:00:00",
+    "end": "2026-05-15T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "MATTY RALPH",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:00:00",
+    "end": "2026-05-15T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "SLAMM",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:00:00",
+    "end": "2026-05-15T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "MER BEAR",
+    "stage": "Beatbox Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:15:00",
+    "end": "2026-05-15T21:30:00",
+    "start_label": "8:15pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "PUNKY BREWSTAR",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:15:00",
+    "end": "2026-05-15T21:30:00",
+    "start_label": "8:15pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "DEMIGOD",
+    "stage": "Insomniac Fridays",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:30:00",
+    "end": "2026-05-15T21:45:00",
+    "start_label": "8:30pm",
+    "end_label": "9:45pm"
+  },
+  {
+    "artist": "MESTIZA",
+    "stage": "Neon Garden",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:30:00",
+    "end": "2026-05-15T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "DIP VERTIGO",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:30:00",
+    "end": "2026-05-15T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "SERAFINA",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:30:00",
+    "end": "2026-05-15T21:30:00",
+    "start_label": "8:30pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "HEYZ",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:40:00",
+    "end": "2026-05-15T21:30:00",
+    "start_label": "8:40pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "$AMI G",
+    "stage": "YeeDC",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:45:00",
+    "end": "2026-05-15T22:15:00",
+    "start_label": "8:45pm",
+    "end_label": "10:15pm"
+  },
+  {
+    "artist": "WESTEND",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T20:55:00",
+    "end": "2026-05-15T21:55:00",
+    "start_label": "8:55pm",
+    "end_label": "9:55pm"
+  },
+  {
+    "artist": "J PATRON",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:00:00",
+    "end": "2026-05-15T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "NICO MORENO",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:00:00",
+    "end": "2026-05-15T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "DONO",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:00:00",
+    "end": "2026-05-15T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "ARGY",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:00:00",
+    "end": "2026-05-15T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "COLD BLUE",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:00:00",
+    "end": "2026-05-15T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "LUUK VAN DIJK",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:00:00",
+    "end": "2026-05-15T22:15:00",
+    "start_label": "9pm",
+    "end_label": "10:15pm"
+  },
+  {
+    "artist": "MUZZ",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:30:00",
+    "end": "2026-05-15T22:30:00",
+    "start_label": "9:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "LADY SINCLAIR",
+    "stage": "Beatbox Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:30:00",
+    "end": "2026-05-15T22:45:00",
+    "start_label": "9:30pm",
+    "end_label": "10:45pm"
+  },
+  {
+    "artist": "MASSIMILIANO PAGLIARA",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:30:00",
+    "end": "2026-05-15T23:00:00",
+    "start_label": "9:30pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "INSPEKTOR GADJET",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:30:00",
+    "end": "2026-05-15T22:45:00",
+    "start_label": "9:30pm",
+    "end_label": "10:45pm"
+  },
+  {
+    "artist": "JOHANNES SCHUSTER",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:30:00",
+    "end": "2026-05-15T22:30:00",
+    "start_label": "9:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "LOUIS LOVE",
+    "stage": "Insomniac Fridays",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:45:00",
+    "end": "2026-05-15T23:00:00",
+    "start_label": "9:45pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "WALKER & ROYCE B2B VNSSA",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T21:55:00",
+    "end": "2026-05-15T22:55:00",
+    "start_label": "9:55pm",
+    "end_label": "10:55pm"
+  },
+  {
+    "artist": "CC LOVE",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:00:00",
+    "end": "2026-05-15T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "I HATE MODELS",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:00:00",
+    "end": "2026-05-15T23:15:00",
+    "start_label": "10pm",
+    "end_label": "11:15pm"
+  },
+  {
+    "artist": "KELLAND",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:00:00",
+    "end": "2026-05-15T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "MAX LOW",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:00:00",
+    "end": "2026-05-15T23:00:00",
+    "start_label": "10pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "DJ TENNIS B2B CHLOE CAILLET",
+    "stage": "Neon Garden",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:00:00",
+    "end": "2026-05-15T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "PEGASSI",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:00:00",
+    "end": "2026-05-15T23:00:00",
+    "start_label": "10pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "MACHETE",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:00:00",
+    "end": "2026-05-15T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "CHRIS LORENZO",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:07:00",
+    "end": "2026-05-15T23:15:00",
+    "start_label": "10:07pm",
+    "end_label": "11:15pm"
+  },
+  {
+    "artist": "OMAR+",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:15:00",
+    "end": "2026-05-15T23:30:00",
+    "start_label": "10:15pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "DIRTY AUDIO",
+    "stage": "YeeDC",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:15:00",
+    "end": "2026-05-16T00:00:00",
+    "start_label": "10:15pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "GORILLAT",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:30:00",
+    "end": "2026-05-15T23:30:00",
+    "start_label": "10:30pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "ADRIAN MILLS",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:30:00",
+    "end": "2026-05-15T23:30:00",
+    "start_label": "10:30pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "TSU NAMI",
+    "stage": "Beatbox Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:45:00",
+    "end": "2026-05-16T00:00:00",
+    "start_label": "10:45pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "SKIBKID",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T22:45:00",
+    "end": "2026-05-16T00:00:00",
+    "start_label": "10:45pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "PARAMIDA",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:00:00",
+    "end": "2026-05-16T00:30:00",
+    "start_label": "11pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "JOEY G",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:00:00",
+    "end": "2026-05-16T00:00:00",
+    "start_label": "11pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "DARUDE",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:00:00",
+    "end": "2026-05-16T00:00:00",
+    "start_label": "11pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "UNDERWORLD",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:10:00",
+    "end": "2026-05-16T00:10:00",
+    "start_label": "11:10pm",
+    "end_label": "12:10am"
+  },
+  {
+    "artist": "LEVITY",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:15:00",
+    "end": "2026-05-16T00:25:00",
+    "start_label": "11:15pm",
+    "end_label": "12:25am"
+  },
+  {
+    "artist": "SOFI TUKKER",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:19:00",
+    "end": "2026-05-16T00:28:00",
+    "start_label": "11:19pm",
+    "end_label": "12:28am"
+  },
+  {
+    "artist": "GHENGAR",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T00:30:00",
+    "start_label": "11:30pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "JFUSE",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "JULIET MENDOZA",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "PEGGY GOU",
+    "stage": "Neon Garden",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "LUKE DEAN",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T00:45:00",
+    "start_label": "11:30pm",
+    "end_label": "12:45am"
+  },
+  {
+    "artist": "DANNY THE WILDCHILD",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "CAIIRO",
+    "stage": "Ubuntu",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T01:30:00",
+    "start_label": "11:30pm",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "CLOUDY",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-15T23:30:00",
+    "end": "2026-05-16T00:30:00",
+    "start_label": "11:30pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "ARMNHMR",
+    "stage": "Beatbox Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:00:00",
+    "end": "2026-05-16T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "99JAKES",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:00:00",
+    "end": "2026-05-16T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "COSMIC GATE",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:00:00",
+    "end": "2026-05-16T01:00:00",
+    "start_label": "12am",
+    "end_label": "1am"
+  },
+  {
+    "artist": "GRANT FISHER",
+    "stage": "YeeDC",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:00:00",
+    "end": "2026-05-16T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "RON D CORE",
+    "stage": "Insomniac Fridays",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:15:00",
+    "end": "2026-05-16T01:30:00",
+    "start_label": "12:15am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "WOOLI",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:25:00",
+    "end": "2026-05-16T01:35:00",
+    "start_label": "12:25am",
+    "end_label": "1:35am"
+  },
+  {
+    "artist": "MEDUZA",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:25:00",
+    "end": "2026-05-16T01:40:00",
+    "start_label": "12:25am",
+    "end_label": "1:40am"
+  },
+  {
+    "artist": "ATLIENS",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:30:00",
+    "end": "2026-05-16T01:30:00",
+    "start_label": "12:30am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "SALUTE B2B CHLOE CAILLET",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:30:00",
+    "end": "2026-05-16T02:30:00",
+    "start_label": "12:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "KUKO",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:30:00",
+    "end": "2026-05-16T01:30:00",
+    "start_label": "12:30am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "THE CHAINSMOKERS",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:32:00",
+    "end": "2026-05-16T01:40:00",
+    "start_label": "12:32am",
+    "end_label": "1:40am"
+  },
+  {
+    "artist": "JOSH BAKER",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T00:45:00",
+    "end": "2026-05-16T02:00:00",
+    "start_label": "12:45am",
+    "end_label": "2am"
+  },
+  {
+    "artist": "DRAMOS",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:00:00",
+    "end": "2026-05-16T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "GOLD LEMONADE",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:00:00",
+    "end": "2026-05-16T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "CASTOR & POLLUX",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:00:00",
+    "end": "2026-05-16T02:00:00",
+    "start_label": "1am",
+    "end_label": "2am"
+  },
+  {
+    "artist": "ADRIATIQUE",
+    "stage": "Neon Garden",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:00:00",
+    "end": "2026-05-16T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "GARETH EMERY",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:00:00",
+    "end": "2026-05-16T02:00:00",
+    "start_label": "1am",
+    "end_label": "2am"
+  },
+  {
+    "artist": "MR DEEDS",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:00:00",
+    "end": "2026-05-16T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "KAI WACHI",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:30:00",
+    "end": "2026-05-16T02:30:00",
+    "start_label": "1:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "ERO808",
+    "stage": "Beatbox Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:30:00",
+    "end": "2026-05-16T03:00:00",
+    "start_label": "1:30am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "MOONPUP",
+    "stage": "Insomniac Fridays",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:30:00",
+    "end": "2026-05-16T02:45:00",
+    "start_label": "1:30am",
+    "end_label": "2:45am"
+  },
+  {
+    "artist": "HIXXY",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:30:00",
+    "end": "2026-05-16T03:00:00",
+    "start_label": "1:30am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "DESCENDANTS",
+    "stage": "Ubuntu",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:30:00",
+    "end": "2026-05-16T03:30:00",
+    "start_label": "1:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "GRAVEDGR",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:30:00",
+    "end": "2026-05-16T02:30:00",
+    "start_label": "1:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "ROADHOUSE",
+    "stage": "YeeDC",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:30:00",
+    "end": "2026-05-16T03:15:00",
+    "start_label": "1:30am",
+    "end_label": "3:15am"
+  },
+  {
+    "artist": "THE OUTLAW",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:35:00",
+    "end": "2026-05-16T02:35:00",
+    "start_label": "1:35am",
+    "end_label": "2:35am"
+  },
+  {
+    "artist": "NOTION",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:47:00",
+    "end": "2026-05-16T02:47:00",
+    "start_label": "1:47am",
+    "end_label": "2:47am"
+  },
+  {
+    "artist": "FISHER",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T01:47:00",
+    "end": "2026-05-16T02:57:00",
+    "start_label": "1:47am",
+    "end_label": "2:57am"
+  },
+  {
+    "artist": "ZAANEE",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:00:00",
+    "end": "2026-05-16T03:00:00",
+    "start_label": "2am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "ILAN BLUESTONE",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:00:00",
+    "end": "2026-05-16T03:00:00",
+    "start_label": "2am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "MAX DEAN",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:00:00",
+    "end": "2026-05-16T03:15:00",
+    "start_label": "2am",
+    "end_label": "3:15am"
+  },
+  {
+    "artist": "ADVENTURE CLUB",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:30:00",
+    "end": "2026-05-16T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "ROBERT HOOD",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:30:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "GUARI",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:30:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "NXSTY",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:30:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "JOSEPH CAPRIATI",
+    "stage": "Neon Garden",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:30:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "R.A.W.",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:30:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "REBEKAH",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:30:00",
+    "end": "2026-05-16T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "HOLY PRIEST",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:35:00",
+    "end": "2026-05-16T03:30:00",
+    "start_label": "2:35am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "STEVE LECLAIR",
+    "stage": "Insomniac Fridays",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:45:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "2:45am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "MPH",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T02:47:00",
+    "end": "2026-05-16T04:02:00",
+    "start_label": "2:47am",
+    "end_label": "4:02am"
+  },
+  {
+    "artist": "TC",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:00:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "3am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "KYGORE",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:00:00",
+    "end": "2026-05-16T04:15:00",
+    "start_label": "3am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "PAUL VAN DYK",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:00:00",
+    "end": "2026-05-16T04:00:00",
+    "start_label": "3am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "PORTER ROBINSON",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:01:00",
+    "end": "2026-05-16T04:10:00",
+    "start_label": "3:01am",
+    "end_label": "4:10am"
+  },
+  {
+    "artist": "OBSKUR",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:15:00",
+    "end": "2026-05-16T04:30:00",
+    "start_label": "3:15am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "CULTURE SHOCK",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:30:00",
+    "end": "2026-05-16T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "RAY VOLPE",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:30:00",
+    "end": "2026-05-16T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "JARED JACKSON",
+    "stage": "Ubuntu",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:30:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "3:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "DYEN",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T03:30:00",
+    "end": "2026-05-16T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "AVALON EMERSON",
+    "stage": "Bionic Jungle",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:00:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "DJ EXILE",
+    "stage": "Casa Bacardi",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:00:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "PLS&TY",
+    "stage": "Forest House",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:00:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "JASON SPLAT",
+    "stage": "Insomniac Fridays",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:00:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "ELI BROWN",
+    "stage": "Neon Garden",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:00:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "DARREN PORTER",
+    "stage": "Quantum Valley",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:00:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "SKANKA",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:00:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "SAN PACHO",
+    "stage": "Cosmic Meadow",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:02:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4:02am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "CHARLOTTE DE WITTE",
+    "stage": "Kinetic Field",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:14:00",
+    "end": "2026-05-16T05:28:00",
+    "start_label": "4:14am",
+    "end_label": "5:28am"
+  },
+  {
+    "artist": "TAVATLI",
+    "stage": "Beatbox Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:15:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4:15am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "HARTSHORN",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:15:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4:15am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "CYCLOPS",
+    "stage": "Basspod",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:30:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "LEVEL UP",
+    "stage": "Circuit Grounds",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:30:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "TOMAN",
+    "stage": "Stereobloom",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:30:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "STAN CHRIST",
+    "stage": "Wasteland",
+    "day": "Day 1",
+    "date": "2026-05-15",
+    "start": "2026-05-16T04:30:00",
+    "end": "2026-05-16T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "FALLEN WITH MC DINO",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T19:50:00",
+    "start_label": "7pm",
+    "end_label": "7:50pm"
+  },
+  {
+    "artist": "GUSTA",
+    "stage": "Beatbox Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "LUCKY LOU",
+    "stage": "Casa Bacardi",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "DJ MANDY",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "FROST CHILDREN",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "AJ BALL",
+    "stage": "Forest House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T19:45:00",
+    "start_label": "7pm",
+    "end_label": "7:45pm"
+  },
+  {
+    "artist": "DJ FLITE",
+    "stage": "Insomniac Fridays",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "AR/CO",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "MINK",
+    "stage": "Neon Garden",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "N0WHERE G1RL",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "MARIA HEALY",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "SLUGG",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "PHNX",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "STARRZA",
+    "stage": "Ubuntu",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T21:00:00",
+    "start_label": "7pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "CUTDWN",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "CARNEYVAL",
+    "stage": "YeeDC",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:00:00",
+    "end": "2026-05-16T20:45:00",
+    "start_label": "7pm",
+    "end_label": "8:45pm"
+  },
+  {
+    "artist": "LINNEY",
+    "stage": "Forest House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:45:00",
+    "end": "2026-05-16T20:45:00",
+    "start_label": "7:45pm",
+    "end_label": "8:45pm"
+  },
+  {
+    "artist": "AVELLO B2B DENNETT",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T19:50:00",
+    "end": "2026-05-16T20:40:00",
+    "start_label": "7:50pm",
+    "end_label": "8:40pm"
+  },
+  {
+    "artist": "SPRAY",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:00:00",
+    "end": "2026-05-16T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "ROZ",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:00:00",
+    "end": "2026-05-16T21:15:00",
+    "start_label": "8pm",
+    "end_label": "9:15pm"
+  },
+  {
+    "artist": "HAYLA",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:00:00",
+    "end": "2026-05-16T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "HANNAH LAING",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:15:00",
+    "end": "2026-05-16T21:25:00",
+    "start_label": "8:15pm",
+    "end_label": "9:25pm"
+  },
+  {
+    "artist": "ANDROCIDED",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:15:00",
+    "end": "2026-05-16T21:30:00",
+    "start_label": "8:15pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "LUKE ALEXANDER",
+    "stage": "Casa Bacardi",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:30:00",
+    "end": "2026-05-16T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "MATEEZY",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:30:00",
+    "end": "2026-05-16T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "TONY CAMBOA",
+    "stage": "Insomniac Fridays",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:30:00",
+    "end": "2026-05-16T21:45:00",
+    "start_label": "8:30pm",
+    "end_label": "9:45pm"
+  },
+  {
+    "artist": "SILVIE LOTO",
+    "stage": "Neon Garden",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:30:00",
+    "end": "2026-05-16T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "SUPERSTRINGS",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:30:00",
+    "end": "2026-05-16T21:30:00",
+    "start_label": "8:30pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "DEAD X",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:30:00",
+    "end": "2026-05-16T21:30:00",
+    "start_label": "8:30pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "VIPERACTIVE",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:40:00",
+    "end": "2026-05-16T21:30:00",
+    "start_label": "8:40pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "JUSTUS",
+    "stage": "Forest House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:45:00",
+    "end": "2026-05-16T21:45:00",
+    "start_label": "8:45pm",
+    "end_label": "9:45pm"
+  },
+  {
+    "artist": "ROXY FERRARI",
+    "stage": "YeeDC",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T20:45:00",
+    "end": "2026-05-16T22:15:00",
+    "start_label": "8:45pm",
+    "end_label": "10:15pm"
+  },
+  {
+    "artist": "BASHKKA B2B SEDEF ADASI",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:00:00",
+    "end": "2026-05-16T22:30:00",
+    "start_label": "9pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "SUB FOCUS",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:00:00",
+    "end": "2026-05-16T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "DISCIP",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:00:00",
+    "end": "2026-05-16T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "MEEDY",
+    "stage": "Ubuntu",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:00:00",
+    "end": "2026-05-16T23:00:00",
+    "start_label": "9pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "KETTAMA",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:15:00",
+    "end": "2026-05-16T22:45:00",
+    "start_label": "9:15pm",
+    "end_label": "10:45pm"
+  },
+  {
+    "artist": "SNOW STRIPPERS",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:25:00",
+    "end": "2026-05-16T22:15:00",
+    "start_label": "9:25pm",
+    "end_label": "10:15pm"
+  },
+  {
+    "artist": "HYBRID MINDS",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:30:00",
+    "end": "2026-05-16T22:30:00",
+    "start_label": "9:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "BENNI OLA",
+    "stage": "Beatbox Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:30:00",
+    "end": "2026-05-16T22:45:00",
+    "start_label": "9:30pm",
+    "end_label": "10:45pm"
+  },
+  {
+    "artist": "LOVE2HATE",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:30:00",
+    "end": "2026-05-16T22:45:00",
+    "start_label": "9:30pm",
+    "end_label": "10:45pm"
+  },
+  {
+    "artist": "BILLY GILLIES",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:30:00",
+    "end": "2026-05-16T22:30:00",
+    "start_label": "9:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "THE SAINTS",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:30:00",
+    "end": "2026-05-16T22:30:00",
+    "start_label": "9:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "REID SPEED",
+    "stage": "Insomniac Fridays",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:45:00",
+    "end": "2026-05-16T23:00:00",
+    "start_label": "9:45pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "EVE LAUREN",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:00:00",
+    "end": "2026-05-16T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "AHMED SPINS",
+    "stage": "Neon Garden",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:00:00",
+    "end": "2026-05-16T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "OMNOM",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:00:00",
+    "end": "2026-05-16T23:15:00",
+    "start_label": "10pm",
+    "end_label": "11:15pm"
+  },
+  {
+    "artist": "CRS?",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:00:00",
+    "end": "2026-05-16T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "STEVE AOKI",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:07:00",
+    "end": "2026-05-16T23:15:00",
+    "start_label": "10:07pm",
+    "end_label": "11:15pm"
+  },
+  {
+    "artist": "VTSS",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:15:00",
+    "end": "2026-05-16T23:30:00",
+    "start_label": "10:15pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "DAZY DUKE",
+    "stage": "YeeDC",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:15:00",
+    "end": "2026-05-17T00:00:00",
+    "start_label": "10:15pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "YDG",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:30:00",
+    "end": "2026-05-16T23:30:00",
+    "start_label": "10:30pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "HAAI B2B LUKE ALESSI",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:30:00",
+    "end": "2026-05-17T00:00:00",
+    "start_label": "10:30pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "PAUL OAKENFOLD",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:30:00",
+    "end": "2026-05-16T23:30:00",
+    "start_label": "10:30pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "ROB GEE B2B LENNY DEE",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:30:00",
+    "end": "2026-05-16T23:30:00",
+    "start_label": "10:30pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "PLAYER DAVE",
+    "stage": "Beatbox Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:45:00",
+    "end": "2026-05-17T00:00:00",
+    "start_label": "10:45pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "SAMMY VIRJI",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:45:00",
+    "end": "2026-05-17T00:15:00",
+    "start_label": "10:45pm",
+    "end_label": "12:15am"
+  },
+  {
+    "artist": "MATT FAULK",
+    "stage": "Forest House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:45:00",
+    "end": "2026-05-17T00:00:00",
+    "start_label": "10:45pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "FLUTTERSHY",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T22:45:00",
+    "end": "2026-05-17T00:00:00",
+    "start_label": "10:45pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "FESTER, OSCURE & THEE-O",
+    "stage": "Insomniac Fridays",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:00:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "11pm",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "NOIZU",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:15:00",
+    "end": "2026-05-17T00:30:00",
+    "start_label": "11:15pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "HARDWELL",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:19:00",
+    "end": "2026-05-17T00:28:00",
+    "start_label": "11:19pm",
+    "end_label": "12:28am"
+  },
+  {
+    "artist": "DELTA HEAVY",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:30:00",
+    "end": "2026-05-17T00:30:00",
+    "start_label": "11:30pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "DREYA V",
+    "stage": "Casa Bacardi",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:30:00",
+    "end": "2026-05-17T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "OFF IN LALA",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:30:00",
+    "end": "2026-05-17T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "LUCIANO",
+    "stage": "Neon Garden",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:30:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "11:30pm",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "ANDREW RAYEL",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:30:00",
+    "end": "2026-05-17T00:30:00",
+    "start_label": "11:30pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "FURY",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:30:00",
+    "end": "2026-05-17T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "LADY FAITH B2B LNY TNZ",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:30:00",
+    "end": "2026-05-17T00:30:00",
+    "start_label": "11:30pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "THE PRODIGY",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T23:35:00",
+    "end": "2026-05-17T00:35:00",
+    "start_label": "11:35pm",
+    "end_label": "12:35am"
+  },
+  {
+    "artist": "CANARY YELLOW",
+    "stage": "Beatbox Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:00:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "MCR-T",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:00:00",
+    "end": "2026-05-17T01:15:00",
+    "start_label": "12am",
+    "end_label": "1:15am"
+  },
+  {
+    "artist": "POLAR BEARS",
+    "stage": "Forest House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:00:00",
+    "end": "2026-05-17T01:00:00",
+    "start_label": "12am",
+    "end_label": "1am"
+  },
+  {
+    "artist": "DJ FLAPJACK",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:00:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "MADDS",
+    "stage": "YeeDC",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:00:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "Ti\u00ebsto",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:15:00",
+    "end": "2026-05-17T01:45:00",
+    "start_label": "12:15am",
+    "end_label": "1:45am"
+  },
+  {
+    "artist": "GETTER",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:30:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "12:30am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "MADDIX",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:30:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "12:30am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "WAX MOTIF",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:30:00",
+    "end": "2026-05-17T01:45:00",
+    "start_label": "12:30am",
+    "end_label": "1:45am"
+  },
+  {
+    "artist": "CODE BLACK B2B AUDIOFREQ B2B TONESHIFTERZ",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:30:00",
+    "end": "2026-05-17T01:30:00",
+    "start_label": "12:30am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "JOHN SUMMIT",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:32:00",
+    "end": "2026-05-17T01:40:00",
+    "start_label": "12:32am",
+    "end_label": "1:40am"
+  },
+  {
+    "artist": "BUNT.",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T00:40:00",
+    "end": "2026-05-17T02:10:00",
+    "start_label": "12:40am",
+    "end_label": "2:10am"
+  },
+  {
+    "artist": "ABANA",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:00:00",
+    "end": "2026-05-17T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "AIRGLO",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:00:00",
+    "end": "2026-05-17T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "BAD BOOMBOX B2B OLLIE LISHMAN",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:15:00",
+    "end": "2026-05-17T02:30:00",
+    "start_label": "1:15am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "EPTIC B2B SPACE LACES",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T02:30:00",
+    "start_label": "1:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "SAMSON",
+    "stage": "Beatbox Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T03:00:00",
+    "start_label": "1:30am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "MELLINFUNK",
+    "stage": "Insomniac Fridays",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T02:45:00",
+    "start_label": "1:30am",
+    "end_label": "2:45am"
+  },
+  {
+    "artist": "PROSPA",
+    "stage": "Neon Garden",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T03:30:00",
+    "start_label": "1:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "JIMNI CRICKET",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T03:00:00",
+    "start_label": "1:30am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "MATHAME",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T02:30:00",
+    "start_label": "1:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "DA TWEEKAZ",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T02:30:00",
+    "start_label": "1:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "SLIM MCGRAW",
+    "stage": "YeeDC",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:30:00",
+    "end": "2026-05-17T03:15:00",
+    "start_label": "1:30am",
+    "end_label": "3:15am"
+  },
+  {
+    "artist": "PEGGY GOU B2B KI/KI",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:45:00",
+    "end": "2026-05-17T03:15:00",
+    "start_label": "1:45am",
+    "end_label": "3:15am"
+  },
+  {
+    "artist": "CID",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:45:00",
+    "end": "2026-05-17T03:00:00",
+    "start_label": "1:45am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "SUBTRONICS",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T01:47:00",
+    "end": "2026-05-17T02:57:00",
+    "start_label": "1:47am",
+    "end_label": "2:57am"
+  },
+  {
+    "artist": "INTERPLANETARY CRIMINAL",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:10:00",
+    "end": "2026-05-17T03:30:00",
+    "start_label": "2:10am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "DOCTOR P B2B FLUX PAVILION B2B FUNTCASE",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:30:00",
+    "end": "2026-05-17T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "BENWAL",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:30:00",
+    "end": "2026-05-17T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "ELI FOLA",
+    "stage": "Casa Bacardi",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:30:00",
+    "end": "2026-05-17T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "DISCOVERY PROJECT",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:30:00",
+    "end": "2026-05-17T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "ASTRIX",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:30:00",
+    "end": "2026-05-17T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "KOJI AIKEN",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:30:00",
+    "end": "2026-05-17T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "LIL TEXAS",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:30:00",
+    "end": "2026-05-17T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "JON BISHOP",
+    "stage": "Insomniac Fridays",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T02:45:00",
+    "end": "2026-05-17T04:00:00",
+    "start_label": "2:45am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "MATTILO",
+    "stage": "Beatbox Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:00:00",
+    "end": "2026-05-17T04:15:00",
+    "start_label": "3am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "DAMON SHARPE",
+    "stage": "Forest House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:00:00",
+    "end": "2026-05-17T04:00:00",
+    "start_label": "3am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "VULKAUF",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:00:00",
+    "end": "2026-05-17T04:15:00",
+    "start_label": "3am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "HNTR",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:00:00",
+    "end": "2026-05-17T04:15:00",
+    "start_label": "3am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "KB DA DJ",
+    "stage": "Ubuntu",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:00:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "3am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "KASKADE",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:01:00",
+    "end": "2026-05-17T04:10:00",
+    "start_label": "3:01am",
+    "end_label": "4:10am"
+  },
+  {
+    "artist": "BOYS NOIZE",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:15:00",
+    "end": "2026-05-17T04:30:00",
+    "start_label": "3:15am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "TAYLOR KADE",
+    "stage": "YeeDC",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:15:00",
+    "end": "2026-05-17T04:15:00",
+    "start_label": "3:15am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "HOL!",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:30:00",
+    "end": "2026-05-17T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "BAUGRUPPE90",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:30:00",
+    "end": "2026-05-17T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "MALUGI",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:30:00",
+    "end": "2026-05-17T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "JOSH BAKER B2B KETTAMA B2B PROSPA",
+    "stage": "Neon Garden",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:30:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "3:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "T78",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:30:00",
+    "end": "2026-05-17T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "MISH",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T03:30:00",
+    "end": "2026-05-17T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "SKILAH",
+    "stage": "Casa Bacardi",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:00:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "MICAH MARTIN",
+    "stage": "Forest House",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:00:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "ERIC DAVENPORT",
+    "stage": "Insomniac Fridays",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:00:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "FALKO",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:00:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "ABOVE & BEYOND",
+    "stage": "Kinetic Field",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:14:00",
+    "end": "2026-05-17T05:28:00",
+    "start_label": "4:14am",
+    "end_label": "5:28am"
+  },
+  {
+    "artist": "PUKING SPICE LATTE",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:15:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:15am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "BOLO",
+    "stage": "Stereobloom",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:15:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:15am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "MARY DROPPINZ",
+    "stage": "Basspod",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:30:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "CLUB ANGEL",
+    "stage": "Bionic Jungle",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:30:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "LILLY PALMER",
+    "stage": "Circuit Grounds",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:30:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "DJ GIGOLA B2B MCR-T",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:30:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "THOMAS SCHUMACHER",
+    "stage": "Quantum Valley",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:30:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "ALYSSA JOLEE",
+    "stage": "Wasteland",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-17T04:30:00",
+    "end": "2026-05-17T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "NIGHTSTALKER",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T19:50:00",
+    "start_label": "7pm",
+    "end_label": "7:50pm"
+  },
+  {
+    "artist": "CHASSI",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "ALVES",
+    "stage": "Bionic Jungle",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "ESPII",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "LINSKA",
+    "stage": "Circuit Grounds",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "GRAVAGERZ",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "MARC V",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "ASSEMBLY",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "KENDO",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "TRACE",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "BAD BEAT",
+    "stage": "Neon Garden",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "NERZ",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:15:00",
+    "start_label": "7pm",
+    "end_label": "8:15pm"
+  },
+  {
+    "artist": "WARUNG",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "KLO",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:00:00",
+    "start_label": "7pm",
+    "end_label": "8pm"
+  },
+  {
+    "artist": "CONNOR Q",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "VIGRO DEEP",
+    "stage": "Ubuntu",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T21:00:00",
+    "start_label": "7pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "SIHK",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:30:00",
+    "start_label": "7pm",
+    "end_label": "8:30pm"
+  },
+  {
+    "artist": "JOHN PRICE",
+    "stage": "YeeDC",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:00:00",
+    "end": "2026-05-17T20:45:00",
+    "start_label": "7pm",
+    "end_label": "8:45pm"
+  },
+  {
+    "artist": "SIPPY",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T19:50:00",
+    "end": "2026-05-17T20:40:00",
+    "start_label": "7:50pm",
+    "end_label": "8:40pm"
+  },
+  {
+    "artist": "SORAYA",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:00:00",
+    "end": "2026-05-17T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "NOSTALGIX",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:00:00",
+    "end": "2026-05-17T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "WARD ANDREWS",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:00:00",
+    "end": "2026-05-17T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "SHIP WREK",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:00:00",
+    "end": "2026-05-17T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "SHINGO NAKAMURA",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:00:00",
+    "end": "2026-05-17T21:00:00",
+    "start_label": "8pm",
+    "end_label": "9pm"
+  },
+  {
+    "artist": "MURPHY\u2019S LAW",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:00:00",
+    "end": "2026-05-17T21:15:00",
+    "start_label": "8pm",
+    "end_label": "9:15pm"
+  },
+  {
+    "artist": "ODD LANGUAGE",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:15:00",
+    "end": "2026-05-17T21:30:00",
+    "start_label": "8:15pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "KIMMYCAT",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:15:00",
+    "end": "2026-05-17T21:30:00",
+    "start_label": "8:15pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "ISABELLA",
+    "stage": "Bionic Jungle",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:30:00",
+    "end": "2026-05-17T22:30:00",
+    "start_label": "8:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "ANNA",
+    "stage": "Circuit Grounds",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:30:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "RAJE",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:30:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "MARS",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:30:00",
+    "end": "2026-05-17T21:45:00",
+    "start_label": "8:30pm",
+    "end_label": "9:45pm"
+  },
+  {
+    "artist": "FALLEN",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:30:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "8:30pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "CLAWZ",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:30:00",
+    "end": "2026-05-17T21:30:00",
+    "start_label": "8:30pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "EAZYBAKED",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:40:00",
+    "end": "2026-05-17T21:30:00",
+    "start_label": "8:40pm",
+    "end_label": "9:30pm"
+  },
+  {
+    "artist": "BAD ASH",
+    "stage": "YeeDC",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T20:45:00",
+    "end": "2026-05-17T22:15:00",
+    "start_label": "8:45pm",
+    "end_label": "10:15pm"
+  },
+  {
+    "artist": "DOOZIE",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:00:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "WILLIAM BLACK",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:00:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "NEON DELUZ",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:00:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "LAYTON GIORDANI",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:00:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "REBUKE",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:00:00",
+    "end": "2026-05-17T22:00:00",
+    "start_label": "9pm",
+    "end_label": "10pm"
+  },
+  {
+    "artist": "FLOYD LAVINE",
+    "stage": "Ubuntu",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:00:00",
+    "end": "2026-05-17T23:00:00",
+    "start_label": "9pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "SIDNEY CHARLES B2B BUSHBABY",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:15:00",
+    "end": "2026-05-17T22:30:00",
+    "start_label": "9:15pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "INFEKT B2B SAMPLIFIRE",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:30:00",
+    "end": "2026-05-17T22:30:00",
+    "start_label": "9:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "WOLFIE",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:30:00",
+    "end": "2026-05-17T22:45:00",
+    "start_label": "9:30pm",
+    "end_label": "10:45pm"
+  },
+  {
+    "artist": "ADIEL",
+    "stage": "Neon Garden",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:30:00",
+    "end": "2026-05-17T22:50:00",
+    "start_label": "9:30pm",
+    "end_label": "10:50pm"
+  },
+  {
+    "artist": "LEXXY JAX",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:30:00",
+    "end": "2026-05-17T22:45:00",
+    "start_label": "9:30pm",
+    "end_label": "10:45pm"
+  },
+  {
+    "artist": "THE PURGE",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:30:00",
+    "end": "2026-05-17T22:30:00",
+    "start_label": "9:30pm",
+    "end_label": "10:30pm"
+  },
+  {
+    "artist": "MARK LEWIS",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T21:45:00",
+    "end": "2026-05-17T23:00:00",
+    "start_label": "9:45pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "BROSA",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:00:00",
+    "end": "2026-05-17T23:15:00",
+    "start_label": "10pm",
+    "end_label": "11:15pm"
+  },
+  {
+    "artist": "BELTRAN",
+    "stage": "Circuit Grounds",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:00:00",
+    "end": "2026-05-17T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "SAN HOLO",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:00:00",
+    "end": "2026-05-17T23:00:00",
+    "start_label": "10pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "DENA",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:00:00",
+    "end": "2026-05-17T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "TENSTEPS",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:00:00",
+    "end": "2026-05-17T23:00:00",
+    "start_label": "10pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "CRISTOPH",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:00:00",
+    "end": "2026-05-17T23:00:00",
+    "start_label": "10pm",
+    "end_label": "11pm"
+  },
+  {
+    "artist": "ROHAAN",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:00:00",
+    "end": "2026-05-17T23:30:00",
+    "start_label": "10pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "FUNK TRIBU",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:07:00",
+    "end": "2026-05-17T23:15:00",
+    "start_label": "10:07pm",
+    "end_label": "11:15pm"
+  },
+  {
+    "artist": "SOMMER RAY",
+    "stage": "YeeDC",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:15:00",
+    "end": "2026-05-18T00:00:00",
+    "start_label": "10:15pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "A.M.C",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:30:00",
+    "end": "2026-05-17T23:30:00",
+    "start_label": "10:30pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "KINAHAU",
+    "stage": "Bionic Jungle",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:30:00",
+    "end": "2026-05-18T00:00:00",
+    "start_label": "10:30pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "SKREAM",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:30:00",
+    "end": "2026-05-17T23:45:00",
+    "start_label": "10:30pm",
+    "end_label": "11:45pm"
+  },
+  {
+    "artist": "YOSUF",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:30:00",
+    "end": "2026-05-17T23:30:00",
+    "start_label": "10:30pm",
+    "end_label": "11:30pm"
+  },
+  {
+    "artist": "CHIBS",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:45:00",
+    "end": "2026-05-18T00:00:00",
+    "start_label": "10:45pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "SIMON APEX & LOSTBOY TRIBUTE SET",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:45:00",
+    "end": "2026-05-18T00:00:00",
+    "start_label": "10:45pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "DJ GIGOLA",
+    "stage": "Neon Garden",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T22:50:00",
+    "end": "2026-05-18T00:10:00",
+    "start_label": "10:50pm",
+    "end_label": "12:10am"
+  },
+  {
+    "artist": "DABIN",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:00:00",
+    "end": "2026-05-18T00:05:00",
+    "start_label": "11pm",
+    "end_label": "12:05am"
+  },
+  {
+    "artist": "JUST.SHAUN",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:00:00",
+    "end": "2026-05-18T00:00:00",
+    "start_label": "11pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "STEVE LORIA",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:00:00",
+    "end": "2026-05-18T00:15:00",
+    "start_label": "11pm",
+    "end_label": "12:15am"
+  },
+  {
+    "artist": "ELI & FUR",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:00:00",
+    "end": "2026-05-18T00:00:00",
+    "start_label": "11pm",
+    "end_label": "12am"
+  },
+  {
+    "artist": "ZAKES BANTWINI",
+    "stage": "Ubuntu",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:00:00",
+    "end": "2026-05-18T01:00:00",
+    "start_label": "11pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "JUOS",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:15:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "11:15pm",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "GRIZ B2B WOOLI",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:19:00",
+    "end": "2026-05-18T00:28:00",
+    "start_label": "11:19pm",
+    "end_label": "12:28am"
+  },
+  {
+    "artist": "VIRTUAL RIOT",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:30:00",
+    "end": "2026-05-18T00:30:00",
+    "start_label": "11:30pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "CHRIS STUSSY",
+    "stage": "Circuit Grounds",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:30:00",
+    "end": "2026-05-18T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "ERIC D-LUX",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:30:00",
+    "end": "2026-05-18T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "JUSTIN HAWKES",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:30:00",
+    "end": "2026-05-18T01:00:00",
+    "start_label": "11:30pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "DJ ISAAC",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:30:00",
+    "end": "2026-05-18T00:30:00",
+    "start_label": "11:30pm",
+    "end_label": "12:30am"
+  },
+  {
+    "artist": "HAMDI",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-17T23:45:00",
+    "end": "2026-05-18T01:00:00",
+    "start_label": "11:45pm",
+    "end_label": "1am"
+  },
+  {
+    "artist": "2DY4",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:00:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "TIGA",
+    "stage": "Bionic Jungle",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:00:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "GOSHFATHER",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:00:00",
+    "end": "2026-05-18T01:00:00",
+    "start_label": "12am",
+    "end_label": "1am"
+  },
+  {
+    "artist": "KUTA",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:00:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "TINLICKER",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:00:00",
+    "end": "2026-05-18T01:00:00",
+    "start_label": "12am",
+    "end_label": "1am"
+  },
+  {
+    "artist": "DISKO COWBOY",
+    "stage": "YeeDC",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:00:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "ALISON WONDERLAND",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:05:00",
+    "end": "2026-05-18T01:05:00",
+    "start_label": "12:05am",
+    "end_label": "1:05am"
+  },
+  {
+    "artist": "999999999",
+    "stage": "Neon Garden",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:10:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12:10am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "FRANKIE BONES",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:15:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12:15am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "PEEKABOO",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:30:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12:30am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "VIEZE ASBAK",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:30:00",
+    "end": "2026-05-18T01:30:00",
+    "start_label": "12:30am",
+    "end_label": "1:30am"
+  },
+  {
+    "artist": "ZEDD",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T00:32:00",
+    "end": "2026-05-18T01:40:00",
+    "start_label": "12:32am",
+    "end_label": "1:40am"
+  },
+  {
+    "artist": "SOLOMUN",
+    "stage": "Circuit Grounds",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:00:00",
+    "end": "2026-05-18T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "OKAYVAL",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:00:00",
+    "end": "2026-05-18T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "SILVER PANDA",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:00:00",
+    "end": "2026-05-18T02:00:00",
+    "start_label": "1am",
+    "end_label": "2am"
+  },
+  {
+    "artist": "CASSIAN",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:00:00",
+    "end": "2026-05-18T02:15:00",
+    "start_label": "1am",
+    "end_label": "2:15am"
+  },
+  {
+    "artist": "CHRIS LORENZO B2B BULLET TOOTH",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:00:00",
+    "end": "2026-05-18T02:15:00",
+    "start_label": "1am",
+    "end_label": "2:15am"
+  },
+  {
+    "artist": "AK1200",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:00:00",
+    "end": "2026-05-18T02:30:00",
+    "start_label": "1am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "NATIVESUN",
+    "stage": "Ubuntu",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:00:00",
+    "end": "2026-05-18T03:00:00",
+    "start_label": "1am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "SEVEN LIONS",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:05:00",
+    "end": "2026-05-18T02:20:00",
+    "start_label": "1:05am",
+    "end_label": "2:20am"
+  },
+  {
+    "artist": "AHEE B2B LIQUID STRANGER",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T02:30:00",
+    "start_label": "1:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "SQISHI",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T03:00:00",
+    "start_label": "1:30am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "DJ TENNIS B2B RED AXES",
+    "stage": "Bionic Jungle",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T03:30:00",
+    "start_label": "1:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "ROMMII",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T02:45:00",
+    "start_label": "1:30am",
+    "end_label": "2:45am"
+  },
+  {
+    "artist": "DONALD GLAUDE",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T02:45:00",
+    "start_label": "1:30am",
+    "end_label": "2:45am"
+  },
+  {
+    "artist": "INDIRA PAGANOTTO",
+    "stage": "Neon Garden",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T02:50:00",
+    "start_label": "1:30am",
+    "end_label": "2:50am"
+  },
+  {
+    "artist": "LUCKY RABBIT",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T03:00:00",
+    "start_label": "1:30am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "SUB ZERO PROJECT",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T02:30:00",
+    "start_label": "1:30am",
+    "end_label": "2:30am"
+  },
+  {
+    "artist": "ASHLEY WALLS",
+    "stage": "YeeDC",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:30:00",
+    "end": "2026-05-18T03:15:00",
+    "start_label": "1:30am",
+    "end_label": "3:15am"
+  },
+  {
+    "artist": "MARTIN GARRIX",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T01:47:00",
+    "end": "2026-05-18T02:57:00",
+    "start_label": "1:47am",
+    "end_label": "2:57am"
+  },
+  {
+    "artist": "NEKTER",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:00:00",
+    "end": "2026-05-18T03:00:00",
+    "start_label": "2am",
+    "end_label": "3am"
+  },
+  {
+    "artist": "MASSANO",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:15:00",
+    "end": "2026-05-18T03:30:00",
+    "start_label": "2:15am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "SILVA BUMPA",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:15:00",
+    "end": "2026-05-18T03:30:00",
+    "start_label": "2:15am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "RESTRICTED",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:20:00",
+    "end": "2026-05-18T03:20:00",
+    "start_label": "2:20am",
+    "end_label": "3:20am"
+  },
+  {
+    "artist": "WHETHAN",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:30:00",
+    "end": "2026-05-18T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "VINTAGE CULTURE",
+    "stage": "Circuit Grounds",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:30:00",
+    "end": "2026-05-18T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "MTK",
+    "stage": "Electrolit Hydration House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:30:00",
+    "end": "2026-05-18T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "APX1",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:30:00",
+    "end": "2026-05-18T04:00:00",
+    "start_label": "2:30am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "ROOLER",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:30:00",
+    "end": "2026-05-18T03:30:00",
+    "start_label": "2:30am",
+    "end_label": "3:30am"
+  },
+  {
+    "artist": "CLOSE FRIENDS ONLY",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:45:00",
+    "end": "2026-05-18T04:00:00",
+    "start_label": "2:45am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "CHARLES FEELGOOD",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:45:00",
+    "end": "2026-05-18T04:00:00",
+    "start_label": "2:45am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "KI/KI",
+    "stage": "Neon Garden",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T02:50:00",
+    "end": "2026-05-18T04:10:00",
+    "start_label": "2:50am",
+    "end_label": "4:10am"
+  },
+  {
+    "artist": "SISTO",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:00:00",
+    "end": "2026-05-18T04:15:00",
+    "start_label": "3am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "TIM CLARK",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:00:00",
+    "end": "2026-05-18T04:00:00",
+    "start_label": "3am",
+    "end_label": "4am"
+  },
+  {
+    "artist": "MUNEQUITA",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:00:00",
+    "end": "2026-05-18T04:15:00",
+    "start_label": "3am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "SABINE BLAIZIN",
+    "stage": "Ubuntu",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:00:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "3am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "CLOONEE",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:01:00",
+    "end": "2026-05-18T04:10:00",
+    "start_label": "3:01am",
+    "end_label": "4:10am"
+  },
+  {
+    "artist": "WILLIE PAKE",
+    "stage": "YeeDC",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:15:00",
+    "end": "2026-05-18T04:15:00",
+    "start_label": "3:15am",
+    "end_label": "4:15am"
+  },
+  {
+    "artist": "BLACK TIGER SEX MACHINE",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:20:00",
+    "end": "2026-05-18T04:30:00",
+    "start_label": "3:20am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "BOOGIE T B2B DISTINCT MOTIVE",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:30:00",
+    "end": "2026-05-18T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "BELTRAN B2B SIMAS",
+    "stage": "Bionic Jungle",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:30:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "3:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "INNELLEA",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:30:00",
+    "end": "2026-05-18T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "MORGAN SEATREE",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:30:00",
+    "end": "2026-05-18T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "WARFACE",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T03:30:00",
+    "end": "2026-05-18T04:30:00",
+    "start_label": "3:30am",
+    "end_label": "4:30am"
+  },
+  {
+    "artist": "CLOSE FRIENDS ONLY B2B JUOS B2B ROMMII",
+    "stage": "Casa Bacardi",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:00:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "KEVIN DE VRIES",
+    "stage": "Circuit Grounds",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:00:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "SYNNHAVEN",
+    "stage": "Forest House",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:00:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "MARK E QUARK",
+    "stage": "Insomniac Fridays",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:00:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "SCOOBA",
+    "stage": "Takis Rave Hangar",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:00:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "KLANGKUENSTLER",
+    "stage": "Neon Garden",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:10:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:10am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "ARMIN VAN BUUREN",
+    "stage": "Kinetic Field",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:14:00",
+    "end": "2026-05-18T05:28:00",
+    "start_label": "4:14am",
+    "end_label": "5:28am"
+  },
+  {
+    "artist": "VICIOUS",
+    "stage": "Beatbox Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:15:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:15am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "2B HAPPY",
+    "stage": "Picnic Playtime Art Car",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:15:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:15am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "AEON:MODE",
+    "stage": "Basspod",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:30:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "NICO MORENO B2B HOLY PRIEST",
+    "stage": "Cosmic Meadow",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:30:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "KREAM",
+    "stage": "Quantum Valley",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:30:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "LU.RE",
+    "stage": "Stereobloom",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:30:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  },
+  {
+    "artist": "MADGRRL B2B VESSEL",
+    "stage": "Wasteland",
+    "day": "Day 3",
+    "date": "2026-05-17",
+    "start": "2026-05-18T04:30:00",
+    "end": "2026-05-18T05:30:00",
+    "start_label": "4:30am",
+    "end_label": "5:30am"
+  }
+]
