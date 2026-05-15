@@ -1210,7 +1210,7 @@
     "end_label": "4:02am"
   },
   {
-    "artist": "TC",
+    "artist": "TOPCAT",
     "stage": "Forest House",
     "day": "Day 1",
     "date": "2026-05-15",
@@ -1495,9 +1495,9 @@
     "day": "Day 2",
     "date": "2026-05-16",
     "start": "2026-05-16T19:00:00",
-    "end": "2026-05-16T20:15:00",
+    "end": "2026-05-16T20:10:00",
     "start_label": "7pm",
-    "end_label": "8:15pm"
+    "end_label": "8:10pm"
   },
   {
     "artist": "AJ BALL",
@@ -1664,10 +1664,10 @@
     "stage": "Cosmic Meadow",
     "day": "Day 2",
     "date": "2026-05-16",
-    "start": "2026-05-16T20:15:00",
-    "end": "2026-05-16T21:25:00",
-    "start_label": "8:15pm",
-    "end_label": "9:25pm"
+    "start": "2026-05-16T20:10:00",
+    "end": "2026-05-16T21:20:00",
+    "start_label": "8:10pm",
+    "end_label": "9:20pm"
   },
   {
     "artist": "ANDROCIDED",
@@ -1820,16 +1820,6 @@
     "end_label": "10:45pm"
   },
   {
-    "artist": "SNOW STRIPPERS",
-    "stage": "Cosmic Meadow",
-    "day": "Day 2",
-    "date": "2026-05-16",
-    "start": "2026-05-16T21:25:00",
-    "end": "2026-05-16T22:15:00",
-    "start_label": "9:25pm",
-    "end_label": "10:15pm"
-  },
-  {
     "artist": "HYBRID MINDS",
     "stage": "Basspod",
     "day": "Day 2",
@@ -1848,6 +1838,16 @@
     "end": "2026-05-16T22:45:00",
     "start_label": "9:30pm",
     "end_label": "10:45pm"
+  },
+  {
+    "artist": "SNOW STRIPPERS",
+    "stage": "Cosmic Meadow",
+    "day": "Day 2",
+    "date": "2026-05-16",
+    "start": "2026-05-16T21:30:00",
+    "end": "2026-05-16T22:10:00",
+    "start_label": "9:30pm",
+    "end_label": "10:10pm"
   },
   {
     "artist": "LOVE2HATE",
